@@ -1,12 +1,12 @@
 # CBS
-Entering the **build** directory for out-of-class compilation
+Entering the **CBS/build** directory for out-of-class compilation
 
     cd CBS/build
     cmake -DCMAKE_INSTALL_PREFIX=/usr ..
     make
     sudo make install
 
-Launch the execuatable file **main**
+Entering the **CBS/build/src**and launch the execuatable file **main**
 
-    cd src
+    cd CBS/build/src
     ./main
