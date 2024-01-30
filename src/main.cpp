@@ -1,8 +1,8 @@
 // ConflictBasedSearch.cpp : This file contains the 'main' function. Program execution begins and ends there.
 
 #include <chrono>
-#include "cbs/LowLevelSolver.h"
-#include "cbs/HighLevelSolver.h"
+#include "LowLevelSolver.h"
+#include "HighLevelSolver.h"
 
 std::vector<std::string> split(std::string s, char delim) {
 	std::vector<std::string> result;
