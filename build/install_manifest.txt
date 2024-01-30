@@ -1,0 +1,7 @@
+/usr/lib/libHighLevelSolver.so
+/usr/lib/libLowLevelSolver.so
+/usr/lib/libTreeNode.so
+/usr/include/cbs/HighLevelSolver.h
+/usr/include/cbs/LowLevelSolver.h
+/usr/include/cbs/TreeNode.h
+/usr/include/cbs/util.h

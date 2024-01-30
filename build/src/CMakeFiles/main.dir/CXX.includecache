@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shuteng/catkin_ws/src/ConflictBasedSearch/src/main.cpp
+chrono
+-
+cbs/LowLevelSolver.h
+/home/shuteng/catkin_ws/src/ConflictBasedSearch/src/cbs/LowLevelSolver.h
+cbs/HighLevelSolver.h
+/home/shuteng/catkin_ws/src/ConflictBasedSearch/src/cbs/HighLevelSolver.h
+
