@@ -7,5 +7,6 @@ Entering the **build** directory for out-of-class compilation:
     sudo make install
 
 Launch the execuatable file ***main***:
+
     cd src
     ./main
