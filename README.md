@@ -11,6 +11,4 @@ Tpying the following commands to enter the **CBS/build/src** and launch the exec
     cd CBS/build/src
     ./main
 
-[ERROR] 
 
-    Segmentation fault (core dumped)
