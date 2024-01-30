@@ -6,7 +6,7 @@ Tpying the following commands to enter the **CBS/build** directory for out-of-cl
     make
     sudo make install
 
-Tpying the following commands to enter the **CBS/build/src**and launch the execuatable file **main**
+Tpying the following commands to enter the **CBS/build/src** and launch the execuatable file **main**
 
     cd CBS/build/src
     ./main
