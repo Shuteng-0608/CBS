@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 3.16)
-PROJECT (CBS)
-
-ADD_SUBDIRECTORY(lib)
-ADD_SUBDIRECTORY(src)
